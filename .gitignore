@@ -1,0 +1,8 @@
+# Build artifacts
+*.o
+*.d
+*.lss
+*.map
+*.pdsbak
+Thumbs.db
+.DS_Store
